@@ -22,3 +22,29 @@ body {
     float: left;
     font-size: 300%;
 }
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 2px;
+    padding-right: 30px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    padding: 15px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #020202;
+    font-weight: bold;
+}
+
+#menu a:hover {
+    color: #f2af29;
+}
+
+#menu .active {
+    color: #950952;
+}
