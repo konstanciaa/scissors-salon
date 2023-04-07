@@ -9,4 +9,16 @@
 body {
     font-family: 'Source Serif pro', sans-serif;
     font-weight: 300;
+    color: #020202;
+}
+
+/* logo */
+
+#logo {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #950952;
+    float: left;
+    font-size: 300%;
 }
