@@ -123,3 +123,26 @@ body {
     height: 300px;
     object-fit: cover;
 }
+
+hr {
+    border: 1px solid #f2af29;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+#offer {
+    margin: 20px 0;
+    font-size: 200%;
+    text-align: center;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+#book-appointment {
+    font-size: 150%;
+}
+
+#contact {
+    text-align: center;
+    padding-top: 30px;
+}
