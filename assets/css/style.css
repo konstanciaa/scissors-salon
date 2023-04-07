@@ -51,7 +51,7 @@ body {
 }
 
 #hero-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/hero-image.png');
     overflow: hidden;
@@ -106,7 +106,8 @@ body {
 }
 
 #gallery {
-    clear: both;
+    margin-top: 50px;
+    /* clear: both;
     margin-top: 50px;
     line-height: 0;
     display: flex;
@@ -114,14 +115,18 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    max-width: 1800px;
+    max-width: 1800px; */
+    
 }
 
 #gallery > img {
-    width: 100%;
+    /* width: 100%;
     max-width: 300px;
     height: 300px;
-    object-fit: cover;
+    object-fit: cover; */
+    vertical-align: top;
+    display: inline-block;
+    width: 16%;
 }
 
 hr {
@@ -144,5 +149,33 @@ hr {
 
 #contact {
     text-align: center;
-    padding-top: 30px;
+    padding: 30px;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: rgba(242, 175, 41, 0.7);
+}
+
+footer p {
+    text-align: center;
+    font-size: 110%;
+    padding-top: 15px;
+    font-family: Oswald, sans-serif;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #020202;
 }
