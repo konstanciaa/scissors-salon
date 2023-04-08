@@ -141,6 +141,7 @@ hr {
     text-align: center;
     font-weight: 500;
     line-height: 150%;
+    color: #020202;
 }
 
 #book-appointment {
@@ -178,4 +179,63 @@ footer p {
     margin: 1%;
     padding: 5%;
     color: #020202;
+}
+
+#services-prices {
+    background-color: rgba(242, 175, 41, 0.2);
+    width: 33%;
+    margin: 0 auto;
+    padding: 15px;
+    position: relative;
+    top: 160px;
+}
+
+#services-prices h2 {
+    font-size: 200%;
+    font-weight: 800;
+    letter-spacing: 2px;
+    padding-left: 30px;
+    /* margin: -4px 0; */
+}
+
+#services-list {
+    font-size: 24px;
+    padding: 15px 0 15px 15px;
+    line-height: 175%;
+}
+
+span {
+    float: right;
+    padding-right: 30px;
+}
+    
+
+.divider {
+    border: 1px solid #950952;
+    margin: 2px 0;
+}
+
+#services-booking button {
+    width: 250px;
+    height: 45px;
+    margin: 0 auto;
+    background-color: #950952;
+    border-radius: 5px;
+    position: relative;
+    left: 40%;
+    top: 10%;
+}
+
+#services-booking a {
+    text-decoration: none;
+    font-family: Oswald, sans-serif;
+    letter-spacing: 2px;
+    font-size: 175%;
+    color: #fefcfb;
+    padding: 10px;
+    text-align: center;
+}
+
+#services-booking a:hover {
+    color: #f2af29;
 }
