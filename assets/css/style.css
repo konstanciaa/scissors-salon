@@ -83,7 +83,7 @@ main {
 
 #cover-text {
     text-align: center;
-    font-size: 600%;
+    font-size: 550%;
     font-weight: 600;
     margin-top: 150px; 
     color: #fefcfb;
@@ -317,4 +317,29 @@ input[type=submit] {
 	border: none;
 	border-radius: 5px;
     font-size: 110%;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1200px) {
+    #hero-image-text {
+        height: 250px;
+    }
+
+    #welcome {
+        font-size: 180%;
+        margin: 20px;
+    }
+
+    .booking button {
+        left: 36%;
+    }
+
+    #services-prices {
+        width: 50%;
+    }
+
+    #services-booking button {
+        left: 36%;
+    }
 }
