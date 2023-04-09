@@ -343,3 +343,42 @@ input[type=submit] {
         left: 36%;
     }
 }
+
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 10px;
+        line-height: 25px;
+    }
+
+    #cover-text {
+        font-size: 390%;
+    }
+
+    #welcome {
+        font-size: 160%;
+        margin: 30px;
+    }
+
+    #gallery {
+        margin-left: 6px;
+    }
+
+    #gallery > img {
+        width: 32%;
+    }
+
+    #offer {
+        font-size: 160%;
+    }
+
+    #contact h2 {
+        font-size: 26px;
+    }
+
+    #contact p {
+        font-size: 18px;
+    }
+}
