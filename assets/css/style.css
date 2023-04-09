@@ -196,8 +196,8 @@ footer p {
 
 .social-networks i {
     font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+    margin: 6px;
+    padding: 15px 15px 25px;
     color: #020202;
 }
 
@@ -209,7 +209,7 @@ footer p {
     margin: 0 auto;
     padding: 15px;
     position: relative;
-    top: 160px;
+    top: 100px;
 }
 
 #services-prices h2 {
@@ -240,12 +240,12 @@ span {
 #services-booking button {
     width: 250px;
     height: 45px;
-    margin: 0 auto;
+    margin: 0 auto 20px;
     background-color: #950952;
     border-radius: 5px;
     position: relative;
-    left: 40%;
-    top: 10%;
+    left: 41%;
+    /* top: 10%; */
 }
 
 #services-booking a {
@@ -263,7 +263,7 @@ span {
 }
 
 #services-booking p {
-    margin: 200px auto 10px;
+    margin: 130px auto 10px;
     font-size: 200%;
     text-align: center;
     font-weight: 500;
@@ -275,20 +275,21 @@ span {
 
 .book-form {
     font-family: 'Source Serif Pro', sans-serif;
-    margin: 150px 10% 0 0;
+    margin: 0 auto 40px;
     color: #020202;
     background-color:rgba(242, 175, 41, 0.2);
     max-width: 400px;
-    position: absolute;
-    left: 33%;
+    position: relative;
+    top: 30px;
     padding: 30px;
 }
 
 .book-form h2 {
     font-family: Oswald, sans-serif;
+    color: #f2af29;
     letter-spacing: 2px;
-    text-decoration-line: underline;
     margin-bottom: 20px;
+    font-size: 210%;
 }
 
 .info {
