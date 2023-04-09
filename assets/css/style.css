@@ -116,11 +116,12 @@ main {
     width: 250px;
     height: 45px;
     margin: 0 auto;
+    display: block;
     background-color: #950952;
     border-radius: 5px;
-    position: relative;
+    /* position: relative;
     left: 40%;
-    top: 10%;
+    top: 10%; */
 }
 
 /* gallery images */
@@ -240,11 +241,12 @@ span {
 #services-booking button {
     width: 250px;
     height: 45px;
-    margin: 0 auto 20px;
+    margin: 0 auto;
+    display: block;
     background-color: #950952;
     border-radius: 5px;
-    position: relative;
-    left: 41%;
+    /* position: relative;
+    left: 41%; */
     /* top: 10%; */
 }
 
@@ -280,7 +282,7 @@ span {
     background-color:rgba(242, 175, 41, 0.2);
     max-width: 400px;
     position: relative;
-    top: 30px;
+    top: 30%;
     padding: 30px;
 }
 
@@ -331,24 +333,28 @@ input[type=submit] {
         margin: 20px;
     }
 
-    .booking button {
-        left: 36%;
+    .book-form {
+        margin: 50px auto 40px;
     }
+
+    /* .booking button {
+        left: 36%;
+    } */
 
     #services-prices {
         width: 50%;
     }
 
-    #services-booking button {
+    /* #services-booking button {
         left: 36%;
-    }
+    } */
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 750px) {
     #menu {
         clear: left;
         float: left;
-        margin-left: 30px;
+        margin-left: 10px;
         margin-bottom: 10px;
         line-height: 25px;
     }
@@ -380,5 +386,32 @@ input[type=submit] {
 
     #contact p {
         font-size: 18px;
+    }
+
+    #services-prices {
+        width: 70%;
+        top: 50px;
+    }
+
+    #services-prices h2 {
+        font-size: 150%;
+        padding-left: 10px;
+    }
+
+    #services-list p {
+        font-size: 18px;
+    }
+
+    span {
+        padding-right: 5px;
+    }
+
+    #services-booking p {
+        margin: 70px auto 10px;
+        font-size: 26px;
+    }
+
+    .book-form h2 {
+        font-size: 28px;
     }
 }
