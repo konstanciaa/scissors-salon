@@ -1,108 +1,146 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Scissors
+[View the live project here.](https://konstanciaa.github.io/scissors-salon/)
 
-Welcome Anna Konstantynova,
+The Scissors website is made for a beauty salon called "Scissors". This website gives all the information about a beauty salon and its services.  Potential clients can book an appointmnet online using a form on the "Booking" page of the website. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The website is designed to be responsible on a range of devices. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![A screenshot of the website on different devices](docs/responsive.png)
 
-## Gitpod Reminders
+## Features
+<hr>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Navigation
++ The navigation is located at the top of the page. It shows the beauty salon name in the left corner: SCISSORS that links to home page.
++ The navigation is in an appealing bright color that contrasts with the background and clearly shows the name of the salon.
++ The other navigation links are to the right: Home, Services, Booking which link to different pages of the website. 
++ The color change of the navigation links tells on which page of the website the users are.
 
-`python3 -m http.server`
+![A screenshot of navigation section](docs/navigation.png)
 
-A blue button should appear to click: _Make Public_,
+### The Hero Image Section
++ The hero image shows the beauty salon interior, using a photo. It helps potential clients to understand what to expect when they decide to visit the salon.
++ The image also contains welcoming words which can make potential clients to feel welcomed.
++ The heading with the welcoming words was designed to partly cover the salon interior image with the goal to prevent users from focusing on less important details on the image rather than on the website's content which calls them to action.
 
-Another blue button should appear to click: _Open Browser_.
+![A screenshot of the beauty salon interior image](docs/interior-image.png)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### The Gallery Section
++ This section contains short information about the kind of services the salon provides and the first call to action. 
++ The bright color button below with the words "Get your hair done" opens the "Booking" page with a form which gives the opportunity to book an appointment.
++ The Gallery section shows six pictures which give a clear idea about the result potential clients may achieve after visiting the salon.
 
-A blue button should appear to click: _Make Public_,
+![A screenshot of the gallery section](docs/gallery.png)
 
-Another blue button should appear to click: _Open Browser_.
+### The Offer Section
++ The Offer section tells users about a discount and encourages them to book an appointment.
++ This section also contains a button which opens the "Booking" page with a form that gives the opportunity to book an appointment.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+![A screenshot of the offer section](docs/offer.png)
 
-To log into the Heroku toolbelt CLI:
+### The Contact Information Section
++ The contact information section provides users with the inforamtion about opening hours, phone number and the address.
++ This section is valuable to the user as it gives them the ability to find and contact the Scissors beauty salon if they want to.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+![A screenshot of the contact information section](docs/contact.png)
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### The Footer
++ The footer contains social media icons with active links to the Scissors social networks profiles.
++ The social media links open a new tab. It gives users the opportunity to get more information about the salon without closing its website.
 
-------
+![A screenshot of the footer](docs/footer.png)
 
-## Release History
+### The Services Page
++ The Services page contains a list of the services the Scissors salon provides along with the prices.
++ The reminder about the discount and the button "Book an appointment" below the pricelist encourage users to make a decision to book an appointment.
++ The button "Book an appointment" when clicked opens the "Booking" page which contains a form for booking.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+![A screenshot of the services page](docs/services.png)
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+### The Booking Page
++ The Booking page contains a form which enables users to leave their request for an appointment.
++ The form contains three radio buttons which help a potential client to choose a kind of service or to write their option.
++ The textarea in the form provides users with an opportunity to express their needs in a more detailed way.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+![A screenshot of the booking page](docs/booking.png)
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+<hr>
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+## Testing
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
++ I tested that this page works in different browsers: Chrome, Safari.
++ I confirmed that this project is responsive, looks good and functions on all standard screen sizes using Chrome devtools device toolbar.
++ I confirmed that the navigation, gallery, offer, contact information, and service page text are all readable and easy to understand.
++ I confirmed that the booking form functions properly on a range of devices. It requires entries in every field, accepts only an email in the email field, and the submit button works.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+## Bugs
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+#### Solved bugs
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
++ When I typed a name in the form input field, it was not shown. 
++ I realized that it was because of my mistake in a css rule. Both the color of the input field and of the text were set to white. 
++ As soons as I changed the color of the text to more contrasting dark color, the issue was solved. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Validator Testing
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+#### HTML
++ No errors were returned when passing through the official W3C validator.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+[W3C Markup Validator - Results](https://konstanciaa.github.io/scissors-salon/index.html)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+#### CSS
++ No errors were returned when passing through the official (Jigsaw) validator.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+[W3C CSS Validator - Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=ru)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+#### Accessibilty
++ I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
-------
+![A screenshot of the lighthouse test result](docs/lighthouse.png)
 
-## FAQ about the uptime script
+#### Unfixed Bugs
++ No unfixed bugs
 
-**Why have you added this script?**
+#### Testing User Stories from User Experience (UX) Section
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
 
-**How will this affect me?**
+## Deployment
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+<hr>
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+The site was deployed to GitHub pages. The steps to deploy are as follows:
++ In the GitHub repository, navigate to the Settings tab
++ Choose Pages on the left side menu
++ From the source section drop-down menu, select the Main Branch
++ Once the main branch has been selected, the page will automatically refresh
++ Click the provided link to now published website.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+The live link can be found here - [SCISSORS](https://konstanciaa.github.io/scissors-salon/)
 
-**So….?**
+## Technologies Used
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+<hr>
 
-**Can I opt out?**
+#### Languages Used
++ HTML5
++ CSS3
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+#### Programs Used
++ **Google Fonts** were used to import the 'Oswald' and 'Source Serif Pro' fonts into the style.css file which are used on all pages throughout the project.
++ **Font Awesome** was used to represent links to social media in the footer of the website throughout all the pages.
++ **Git** was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
++ **GitHub** is used to store the projects code after being pushed from Git.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+## Credits
 
-**Anything more?**
+<hr>
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+#### Code
++ The full-screen hero image code ...
 
----
+#### Content
 
-Happy coding!
+#### Media
+
+#### Acknowledgements
++ My Mentor for continuous helpful feedback.
