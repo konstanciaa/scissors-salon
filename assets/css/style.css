@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Source+Serif+Pro:wght@300&display=swap');
 
+/* reset rules */
 * {
     margin: 0;
     padding: 0;
@@ -90,6 +91,8 @@ main {
     text-shadow: #020202;
 }
 
+/* welcoming words */
+
 #welcome {
     margin: 20px 0;
     font-size: 200%;
@@ -97,6 +100,8 @@ main {
     font-weight: 500;
     line-height: 150%;
 }
+
+/* booking button */
 
 .booking a {
     text-decoration: none;
@@ -139,6 +144,8 @@ hr {
     margin-bottom: 5px;
 }
 
+/* call to action */
+
 #offer {
     margin: 20px 0;
     font-size: 200%;
@@ -151,6 +158,8 @@ hr {
 #book-appointment {
     font-size: 150%;
 }
+
+/* contact info */
 
 #contact {
     text-align: center;
@@ -169,6 +178,8 @@ footer p {
     padding-top: 15px;
     font-family: Oswald, sans-serif;
 }
+
+/* links to social networks, font awesome */
 
 .social-networks {
     text-align: center;
@@ -288,6 +299,7 @@ span {
 
 textarea {
     margin-top: 5px;
+    width: 100%;
 }
 
 input[type=submit] {
