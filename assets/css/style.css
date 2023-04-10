@@ -395,3 +395,32 @@ input[type=submit] {
         font-size: 28px;
     }
 }
+
+@media screen and (max-width: 350px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 20px;
+        margin-bottom: 10px;
+        line-height: 25px;
+        font-size: 18px;
+    }
+
+    #menu li {
+        float: right;
+        list-style-type: none;
+        padding: 8px;
+    }
+
+    #cover-text {
+        font-size: 350%;
+    }
+
+    #hero-image-text {
+        height: 215px;
+    }
+
+    #services-list p {
+        font-size: 16px;
+    }
+}
