@@ -5,7 +5,7 @@ The Scissors website is made for a beauty salon called "Scissors". This website 
 
 The website is designed to be responsible on a range of devices. 
 
-![A screenshot of the website on different devices](docs/responsive.png)
+![A screenshot of the website on different devices](/docs/responsive.png)
 
 ## Features
 <hr>
@@ -16,7 +16,7 @@ The website is designed to be responsible on a range of devices.
 + The other navigation links are to the right: Home, Services, Booking which link to different pages of the website. 
 + The color change of the navigation links tells on which page of the website the users are.
 
-![A screenshot of navigation section](docs/navigation.png)
+![A screenshot of navigation section](/docs/navigation.png)
 
 ### The Hero Image Section
 + The hero image shows the beauty salon interior, using a photo. It helps potential clients to understand what to expect when they decide to visit the salon.
