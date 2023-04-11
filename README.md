@@ -98,10 +98,18 @@ The website is designed to be responsible on a range of devices.
 
 ## Testing
 
-+ I tested that this page works in different browsers: Chrome, Safari.
-+ I confirmed that this project is responsive, looks good and functions on all standard screen sizes using Chrome devtools device toolbar.
-+ I confirmed that the navigation, gallery, offer, contact information, and service page text are all readable and easy to understand.
-+ I confirmed that the booking form functions properly on a range of devices. It requires entries in every field, accepts only an email in the email field, and the submit button works.
+| **To test**                         | **Expected Result**                    |
+|-------------------------------------|----------------------------------------|
+|Open the site in different browsers. |The website works properly in different browsers: Chrome, Safari.
+|Open it on a tablet and a mobile phone. |It's responsive and looks good on a range of devices.             
+|Tap the navigation to open another pages. |I confirmed that all three pages are easily open through the navigation bar.
+|Click the button "Get your hair done". |It opens the Booking page with a form for booking.
+|Click the button "Book an appointment" on the home page. |It opens the Booking page with a form for booking.
+|Click social media icons at the bottom of the page. |Each link is being opened in a new tab.
+|Enter your name, last name and phone number in a booking form. |The entered info is clear and readable.
+|Try to submit the form without filling out one of the fields. |The form requires all the fields to be filled out before submiting.
+|Type some text into the textarea. |The text is clearly seen.           
+
 
 ## Bugs
 
