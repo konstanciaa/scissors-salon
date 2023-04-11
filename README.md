@@ -74,15 +74,21 @@ The website is designed to be responsible on a range of devices.
 
 ## User Experience Design (UXD)
 + **Strategy Plane**. A website for a beauty salon which provides potential clients with all the necessary contact information and ability to book an appointment online. Users can also find information about services the salon provides.
-+ **Scope Plane**. The home page contains buttons which open a booking form. The Service page contains a liist of services along with the prices. The Booking page contains a form for booking an appointment.
-+ **Structure Plane**. The Home page contains welcoming words, short description of the services, gallery with the images which show the result a potential client may expect, special offer, buttons which call to action, and contact information. The Services page contains the liist of services and prices, and a button to book an appointment. The Booking page contains a booking form.
++ **Scope Plane**. The home page contains buttons which open a booking form. The Service page contains a list of services along with the prices. The Booking page contains a form for booking an appointment.
++ **Structure Plane**. The Home page contains welcoming words, short description of the services, gallery with the images which show the result a potential client may expect, special offer, buttons which call to action, and contact information. The Services page contains the list of services and prices, and a button to book an appointment. The Booking page contains a booking form.
 + **Skeleton Plane**. 
 ![Home page wireframe](/docs/wireframe-home.png)
 ![Gallery and contact info wireframe](/docs/wireframe-gallery.png)
 ![Services page wireframe](/docs/wireframe-services.png)
 ![Booking page wireframe](/docs/wireframe-booking.png)
 
-+ **Surface Plane**. (colors, typography)
++ **Surface Plane**. 
+
+Fonts: *Oswald, Source Serif pro*
+
+Color Palette is shown below.
+![Color Palette](/docs/palette.png)
+
 
 ## Features
 
