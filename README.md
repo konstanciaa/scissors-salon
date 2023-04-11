@@ -32,12 +32,12 @@ The website is designed to be responsible on a range of devices.
       - [Unfixed Bugs](#unfixed-bugs)
   * [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience--ux--section)
   * [Deployment](#deployment)
+  * [Contributing](#contributing)
   * [Technologies Used](#technologies-used)
       - [Languages Used](#languages-used)
       - [Programs Used](#programs-used)
   * [Credits](#credits)
       - [Code](#code)
-      - [Content](#content)
       - [Media](#media)
       - [Acknowledgements](#acknowledgements)
 
@@ -241,6 +241,18 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 The live link can be found here - [SCISSORS](https://konstanciaa.github.io/scissors-salon/)
 
+## Contributing
+
+Any contributions are greatly appreciated. If you have a suggestion that would make this website better, please fork the repo and create a pull request.
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/konstanciaa/scissors-salon)
+2. At the top of the Repository on the right site of the page just above the "Setings" Button on the menu, locate the "Fork" Button.
+3. Fork the Project
+4. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+5. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+6. Push to the Branch (`git push origin feature/AmazingFeature`)
+7. Open a Pull Request
+
 ## Technologies Used
 
 #### Languages Used
@@ -252,15 +264,15 @@ The live link can be found here - [SCISSORS](https://konstanciaa.github.io/sciss
 + **Font Awesome** was used to represent links to social media in the footer of the website throughout all the pages.
 + **Git** was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 + **GitHub** is used to store the projects code after being pushed from Git.
++ **Canva** is used to resize and edit pictures.
 
 ## Credits
 
 #### Code
 + The full-screen hero image code ...
 
-#### Content
-
 #### Media
+photos 
 
 #### Acknowledgements
 + My Mentor for continuous helpful feedback.
