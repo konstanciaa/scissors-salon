@@ -90,6 +90,12 @@ The website is designed to be responsible on a range of devices.
 
 ![A screenshot of the booking page](/docs/booking.png)
 
+## Future Features
+
++ The new Gallery page will be added to provided users with more photos.
++ The Service page will be enriched with pictures and descriptions of some services.
++ The Booking page will contain a calendar which enables potential clients to choose the date and time convinient for them.
+
 ## Testing
 
 + I tested that this page works in different browsers: Chrome, Safari.
