@@ -12,6 +12,7 @@ The website is designed to be responsible on a range of devices.
 - [Scissors](#scissors)
   * [User Experience (UX)](#user-experience--ux-)
     + [User stories](#user-stories)
+  * [User Experience Design (UXD)](#user-experience-design-uxd)
   * [Features](#features)
     + [Navigation](#navigation)
     + [The Hero Image Section](#the-hero-image-section)
@@ -70,6 +71,13 @@ The website is designed to be responsible on a range of devices.
     a. As a frequent User, I want to check to see if there are any newly added photos in the gallery section.
 
     b. As a frequent User, I want to check to see if there are any new services or offers.
+
+## User Experience Design (UXD)
++ **Strategy Plane**. A website for a beauty salon which provides potential clients with all the necessary contact information and ability to book an appointment online. Users can also find information about services the salon provides.
++ **Scope Plane**. The home page contains buttons which open a booking form. The Service page contains a liist of services along with the prices. The Booking page contains a form for booking an appointment.
++ **Structure Plane**. The Home page contains welcoming words, short description of the services, gallery with the images which show the result a potential client may expect, special offer, buttons which call to action, and contact information. The Services page contains the liist of services and prices, and a button to book an appointment. The Booking page contains a booking form.
++ **Skeleton Plane**. (wireframes)
++ **Surface Plane**. (colors, typography)
 
 ## Features
 
@@ -279,7 +287,8 @@ Any contributions are greatly appreciated. If you have a suggestion that would m
 + Readme file templates from [GitHub](https://github.com/othneildrew/Best-README-Template) and [Code Institute](https://codeinstitute.net/) were used to help to create this README file.
 
 #### Media
-The images were taken from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) 
++ The images were taken from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) 
++ The color palette was taken from [Coolors](https://coolors.co/950952-f2af29-020202-fefcfb-fbba72)
 
 #### Acknowledgements
 + My Mentor for continuous helpful feedback.
