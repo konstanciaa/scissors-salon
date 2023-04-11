@@ -10,7 +10,7 @@ The website is designed to be responsible on a range of devices.
 ## Table of Contents
 
 - [Scissors](#scissors)
-  * [User Experience (UX)](#user-experience--ux-)
+  * [User Experience (UX)](#user-experience-ux)
     + [User stories](#user-stories)
   * [User Experience Design (UXD)](#user-experience-design-uxd)
   * [Features](#features)
@@ -31,7 +31,7 @@ The website is designed to be responsible on a range of devices.
       - [CSS](#css)
       - [Accessibilty](#accessibilty)
       - [Unfixed Bugs](#unfixed-bugs)
-  * [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience--ux--section)
+  * [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience-ux-section)
   * [Deployment](#deployment)
   * [Contributing](#contributing)
   * [Technologies Used](#technologies-used)
@@ -174,7 +174,7 @@ Color Palette is shown below.
 
 + When I typed a name in the form input field, it was not shown. 
 + I realized that it was because of my mistake in a css rule. Both the color of the input field and of the text were set to white. 
-+ As soons as I changed the color of the text to more contrasting dark color, the issue was solved. 
++ As soon as I changed the color of the text to more contrasting dark color, the issue was solved. 
 
 ## Validator Testing
 
@@ -212,7 +212,7 @@ Color Palette is shown below.
 
     *a. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.*
 
-    *b. At the bottom of the first two pages there is a button with a call to action to ensure the user always has aomewhere to go and doesn't feel trapped as they get to the bottom of the page.*
+    *b. At the bottom of the first two pages there is a button with a call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.*
 
     *c. On the third page there is a booking form which is easy to fill out.*
 
@@ -236,13 +236,13 @@ Color Palette is shown below.
 
     iii. As a Returning Visitor, I want to be able to book an appointment.
 
-    *As entering the site users get two options to book an appointment. The first option is to navigate to Booking page which contains a booking form. The second option is to click the button just below the hero imag eand welcoming words.*
+    *As entering the site users get two options to book an appointment. The first option is to navigate to Booking page which contains a booking form. The second option is to click the button just below the hero image and welcoming words.*
 
 + **Frequent User Goals**
 
     i. As a frequent User, I want to check to see if there are any newly added photos in the gallery section.
 
-    *The user can easily locate the gallery with new photos on the home page. It is placed between the first button calling to action and the speciiel offer.*
+    *The user can easily locate the gallery with new photos on the home page. It is placed between the first button calling to action and the special offer.*
 
     ii. As a frequent User, I want to check to see if there are any new services or offers.
 
@@ -267,7 +267,7 @@ The live link can be found here - [SCISSORS](https://konstanciaa.github.io/sciss
 Any contributions are greatly appreciated. If you have a suggestion that would make this website better, please fork the repo and create a pull request.
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/konstanciaa/scissors-salon)
-2. At the top of the Repository on the right site of the page just above the "Setings" Button on the menu, locate the "Fork" Button.
+2. At the top of the Repository on the right site of the page just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Fork the Project
 4. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 5. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -285,7 +285,7 @@ Any contributions are greatly appreciated. If you have a suggestion that would m
 + **Font Awesome** was used to represent links to social media in the footer of the website throughout all the pages.
 + **Git** was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 + **GitHub** is used to store the projects code after being pushed from Git.
-+ **Canva** is used to resize and edit pictures.
++ **Canva** was used to resize and edit pictures.
 
 ## Credits
 
