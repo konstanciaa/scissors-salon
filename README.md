@@ -38,6 +38,7 @@ The website is designed to be responsible on a range of devices.
       - [Programs Used](#programs-used)
   * [Credits](#credits)
       - [Code](#code)
+      - [Content](#content)
       - [Media](#media)
       - [Acknowledgements](#acknowledgements)
 
@@ -128,9 +129,10 @@ The website is designed to be responsible on a range of devices.
 
 ## Future Features
 
-+ The new Gallery page will be added to provided users with more photos.
++ New Gallery page will be added to provided users with more photos.
 + The Service page will be enriched with pictures and descriptions of some services.
 + The Booking page will contain a calendar which enables potential clients to choose the date and time convinient for them.
++ New Blog page will be created to post articles about haircare and hairstyle trends.
 
 ## Testing
 
@@ -269,10 +271,16 @@ Any contributions are greatly appreciated. If you have a suggestion that would m
 ## Credits
 
 #### Code
-+ The full-screen hero image code ...
++ The full-screen hero image, logo and navigation code came from [Love Running project](https://github.com/konstanciaa/love-running)
++ The footer code came from this [YouTube tutorial](https://youtube.com/shorts/kNGYuTelE3E?feature=share)
+
+#### Content
++ All the website content was written by the developer.
++ Readme file templates from [GitHub](https://github.com/othneildrew/Best-README-Template) and [Code Institute](https://codeinstitute.net/) were used to help to create this README file.
 
 #### Media
-photos 
+The images were taken from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/) 
 
 #### Acknowledgements
 + My Mentor for continuous helpful feedback.
++ Tutor support at Code Institute for their support.
