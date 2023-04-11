@@ -125,7 +125,59 @@ The website is designed to be responsible on a range of devices.
 #### Unfixed Bugs
 + No unfixed bugs
 
-#### Testing User Stories from User Experience (UX) Section
+## Testing User Stories from User Experience (UX) Section
+
++ **First Time Visitor Goals**
+
+    i. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the beauty salon.
+
+    *a. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Welcoming text* 
+
+    *b. Below the Hero Image users can find information about the kind of services the salon provides and the first call to action.*
+
+    *c. The user is able to immediately book an appointment*
+
+    ii. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
+    *a. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.*
+
+    *b. At the bottom of the first two pages there is a button with a call to action to ensure the user always has aomewhere to go and doesn't feel trapped as they get to the bottom of the page.*
+
+    *c. On the third page there is a booking form which is easy to fill out.*
+
+    iii. As a First Time Visitor, I want to look for photos of their work to understand what result to expect from their services.
+
+    *In the middle of the first page between two buttons which call to action, the user can take a look at the gallery of photos.*
+
+    iv. As a First Time Visitor, I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+
+    *At the bottom of all three pages users can easily find social media icons. They open the salon social media profiles in a new tab and give the opportunity to investigate more about the quality of service the salon provides.*
+
++ **Returning Visitor Goals**
+
+    i. As a Returning Visitor, I want to find information about special offers and discounts.
+
+    *The information about special offers and discounts can be easily found on the home page just below the gallery and on the Services page just below the pricelist.*
+
+    ii. As a Returning Visitor, I want to find the best way to get in contact with the salon with any questions I may have.
+
+    *Scrolling the home page further, the user can locate all the necessary contact information: open hours, phone number and the address.*
+
+    iii. As a Returning Visitor, I want to be able to book an appointment.
+
+    *As entering the site users get two options to book an appointment. The first option is to navigate to Booking page which contains a booking form. The second option is to click the button just below the hero imag eand welcoming words.*
+
++ **Frequent User Goals**
+
+    i. As a frequent User, I want to check to see if there are any newly added photos in the gallery section.
+
+    *The user can easily locate the gallery with new photos on the home page. It is placed between the first button calling to action and the speciiel offer.*
+
+    ii. As a frequent User, I want to check to see if there are any new services or offers.
+
+    *a. The information about new services can be found on the Services page. The user can open it by navigating at the top of the page.*
+
+    *b. The information about the new offers is located on the home page underneath the gallery with photos.*
 
 
 ## Deployment
