@@ -286,6 +286,7 @@ Any contributions are greatly appreciated. If you have a suggestion that would m
 + **Git** was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 + **GitHub** is used to store the projects code after being pushed from Git.
 + **Canva** was used to resize and edit pictures.
++ [wireframe.cc](https://wireframe.cc/) was used to create wireframes.
 
 ## Credits
 
