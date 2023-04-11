@@ -7,6 +7,33 @@ The website is designed to be responsible on a range of devices.
 
 ![A screenshot of the website on different devices](/docs/responsive.png)
 
+## User Experience (UX)
+
+### User stories
++ **First Time Visitor Goals**
+
+    a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the beauty salon.
+    
+    b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
+    c. As a First Time Visitor, I want to look for photos of their work to understand what result to expect from their services. 
+
+    d. As a First Time Visitor, I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+
++ **Returning Visitor Goals**
+
+    a. As a Returning Visitor, I want to find information about special offers and discounts.
+
+    b.  As a Returning Visitor, I want to find the best way to get in contact with the salon with any questions I may have.
+
+    c. As a Returning Visitor, I want to be able to book an appointmnet.
+
++ **Frequent User Goals**
+
+    a. As a frequent User, I want to check to see if there are any newly added photos in the gallery section.
+
+    b. As a frequent User, I want to check to see if there are any new services or offers.
+
 ## Features
 
 ### Navigation
