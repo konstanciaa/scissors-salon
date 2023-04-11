@@ -83,12 +83,12 @@ The website is designed to be responsible on a range of devices.
 #### HTML
 + No errors were returned when passing through the official W3C validator.
 
-[W3C Markup Validator - Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html)
+<a href="https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html" target="_blank">W3C Markup Validator - Results</a>
 
 #### CSS
 + No errors were returned when passing through the official (Jigsaw) validator.
 
-[W3C CSS Validator - Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" target="_blank">W3C CSS Validator - Results</a>
 
 #### Accessibilty
 + I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
