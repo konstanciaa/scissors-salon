@@ -7,6 +7,42 @@ The website is designed to be responsible on a range of devices.
 
 ![A screenshot of the website on different devices](/docs/responsive.png)
 
+## Table of Contents
+
+- [Scissors](#scissors)
+  * [User Experience (UX)](#user-experience--ux-)
+    + [User stories](#user-stories)
+  * [Features](#features)
+    + [Navigation](#navigation)
+    + [The Hero Image Section](#the-hero-image-section)
+    + [The Gallery Section](#the-gallery-section)
+    + [The Offer Section](#the-offer-section)
+    + [The Contact Information Section](#the-contact-information-section)
+    + [The Footer](#the-footer)
+    + [The Services Page](#the-services-page)
+    + [The Booking Page](#the-booking-page)
+  * [Future Features](#future-features)
+  * [Testing](#testing)
+  * [Bugs](#bugs)
+      - [Solved bugs](#solved-bugs)
+  * [Validator Testing](#validator-testing)
+      - [HTML](#html)
+      - [CSS](#css)
+      - [Accessibilty](#accessibilty)
+      - [Unfixed Bugs](#unfixed-bugs)
+  * [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience--ux--section)
+  * [Deployment](#deployment)
+  * [Technologies Used](#technologies-used)
+      - [Languages Used](#languages-used)
+      - [Programs Used](#programs-used)
+  * [Credits](#credits)
+      - [Code](#code)
+      - [Content](#content)
+      - [Media](#media)
+      - [Acknowledgements](#acknowledgements)
+
+
+
 ## User Experience (UX)
 
 ### User stories
