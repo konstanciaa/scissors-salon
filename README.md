@@ -8,7 +8,6 @@ The website is designed to be responsible on a range of devices.
 ![A screenshot of the website on different devices](/docs/responsive.png)
 
 ## Features
-<hr>
 
 ### Navigation
 + The navigation is located at the top of the page. It shows the beauty salon name in the left corner: SCISSORS that links to home page.
@@ -23,48 +22,46 @@ The website is designed to be responsible on a range of devices.
 + The image also contains welcoming words which can make potential clients to feel welcomed.
 + The heading with the welcoming words was designed to partly cover the salon interior image with the goal to prevent users from focusing on less important details on the image rather than on the website's content which calls them to action.
 
-![A screenshot of the beauty salon interior image](docs/interior-image.png)
+![A screenshot of the beauty salon interior image](/docs/interior-image.png)
 
 ### The Gallery Section
 + This section contains short information about the kind of services the salon provides and the first call to action. 
 + The bright color button below with the words "Get your hair done" opens the "Booking" page with a form which gives the opportunity to book an appointment.
 + The Gallery section shows six pictures which give a clear idea about the result potential clients may achieve after visiting the salon.
 
-![A screenshot of the gallery section](docs/gallery.png)
+![A screenshot of the gallery section](/docs/gallery.png)
 
 ### The Offer Section
 + The Offer section tells users about a discount and encourages them to book an appointment.
 + This section also contains a button which opens the "Booking" page with a form that gives the opportunity to book an appointment.
 
-![A screenshot of the offer section](docs/offer.png)
+![A screenshot of the offer section](/docs/offer.png)
 
 ### The Contact Information Section
 + The contact information section provides users with the inforamtion about opening hours, phone number and the address.
 + This section is valuable to the user as it gives them the ability to find and contact the Scissors beauty salon if they want to.
 
-![A screenshot of the contact information section](docs/contact.png)
+![A screenshot of the contact information section](/docs/contact.png)
 
 ### The Footer
 + The footer contains social media icons with active links to the Scissors social networks profiles.
 + The social media links open a new tab. It gives users the opportunity to get more information about the salon without closing its website.
 
-![A screenshot of the footer](docs/footer.png)
+![A screenshot of the footer](/docs/footer.png)
 
 ### The Services Page
 + The Services page contains a list of the services the Scissors salon provides along with the prices.
 + The reminder about the discount and the button "Book an appointment" below the pricelist encourage users to make a decision to book an appointment.
 + The button "Book an appointment" when clicked opens the "Booking" page which contains a form for booking.
 
-![A screenshot of the services page](docs/services.png)
+![A screenshot of the services page](/docs/services.png)
 
 ### The Booking Page
 + The Booking page contains a form which enables users to leave their request for an appointment.
 + The form contains three radio buttons which help a potential client to choose a kind of service or to write their option.
 + The textarea in the form provides users with an opportunity to express their needs in a more detailed way.
 
-![A screenshot of the booking page](docs/booking.png)
-
-<hr>
+![A screenshot of the booking page](/docs/booking.png)
 
 ## Testing
 
@@ -86,17 +83,17 @@ The website is designed to be responsible on a range of devices.
 #### HTML
 + No errors were returned when passing through the official W3C validator.
 
-[W3C Markup Validator - Results](https://konstanciaa.github.io/scissors-salon/index.html)
+[W3C Markup Validator - Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html)
 
 #### CSS
 + No errors were returned when passing through the official (Jigsaw) validator.
 
-[W3C CSS Validator - Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=ru)
+[W3C CSS Validator - Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkonstanciaa.github.io%2Fscissors-salon%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 #### Accessibilty
 + I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
-![A screenshot of the lighthouse test result](docs/lighthouse.png)
+![A screenshot of the lighthouse test result](/docs/lighthouse.png)
 
 #### Unfixed Bugs
 + No unfixed bugs
@@ -105,8 +102,6 @@ The website is designed to be responsible on a range of devices.
 
 
 ## Deployment
-
-<hr>
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 + In the GitHub repository, navigate to the Settings tab
@@ -119,8 +114,6 @@ The live link can be found here - [SCISSORS](https://konstanciaa.github.io/sciss
 
 ## Technologies Used
 
-<hr>
-
 #### Languages Used
 + HTML5
 + CSS3
@@ -132,8 +125,6 @@ The live link can be found here - [SCISSORS](https://konstanciaa.github.io/sciss
 + **GitHub** is used to store the projects code after being pushed from Git.
 
 ## Credits
-
-<hr>
 
 #### Code
 + The full-screen hero image code ...
